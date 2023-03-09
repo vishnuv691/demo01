@@ -1,0 +1,3 @@
+echo "This is my first Jenkins job!!!"
+echo "This system host name is: `Hostname`"
+echo "Jenkins workspace dir is `pwd`" 
